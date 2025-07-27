@@ -6,6 +6,10 @@ A gamified social-impact Flutter app that combines personality exercises, real-w
 
 https://drive.google.com/drive/folders/1iXc1ejXh9CMGKHxpaHtjQoCs5pb1IGpB?usp=sharing
 
+<img width="1080" height="1350" alt="demo" src="https://github.com/user-attachments/assets/6e441736-df90-4cde-9134-965f9c5a8c74" />
+
+
+
 Download,Install and Enjoy the Game.
 
  🚀 Features
